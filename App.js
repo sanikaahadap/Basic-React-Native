@@ -25,7 +25,7 @@ const App = () => {
         </TouchableOpacity>
       </View>
       <View style={styles.footer}>
-        <Text style={styles.footerText}>© 2023 Counter</Text>
+        <Text style={styles.footerText}>© 2023 Basic Counter </Text>
       </View>
     </View>
   );
